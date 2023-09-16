@@ -17,6 +17,10 @@ body {
     font-family: 'Outfit', sans-serif;
     background-color: var(--Lightgray);
     font-size: 15px;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 .container {
     margin: 84px 30px;
